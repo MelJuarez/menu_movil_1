@@ -1,0 +1,62 @@
+/*--------------------Diseño Tercera Sección------------------**/
+/*-----------What makes Rappi great?--------------*/
+.Rappi_Great{
+    padding: 1rem 2rem;
+}
+.contenido_carousel{
+    margin-top: 3rem;
+}
+.div_img{
+    width: 100%;
+    height: 30rem;
+}
+.div_img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.div_contenido h3{
+    font-size: 2rem; 
+    margin-top: 2rem;
+    padding: 0 2rem 0 2rem;
+    
+}
+.div_contenido p{
+    font-size: 1.5rem;
+    color: var(--color2);
+    font-weight: 500;
+    padding: 1rem 1rem 0 2rem;
+}
+.div_contenido span{
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: var(--color1);
+    margin: 1rem 0 0 2rem;
+
+}
+.Subt_linea{
+    width: 100%;
+    height: auto;
+    width: auto;
+    padding: 4rem 0 0 2rem;
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+}
+
+.Subt_linea span{
+    margin: 0 1rem 0 0;
+}
+.Subt_linea hr{
+    font-weight: 100;
+    color: rgb(54, 54, 54);
+    margin: 0 1rem 0 0;
+}
+.Subt_linea .What{
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+.ITEM2{
+    margin-top: 6rem;
+}

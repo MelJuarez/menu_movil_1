@@ -1,0 +1,88 @@
+/*--------------------Diseño Segunda Sección------------------**/
+/*-----------ABOUT RAPPI--------------*/
+.AR{
+    width: 100%;
+    height: auto;
+}
+.about_rappi .titulo{
+    width: auto;
+    background-color: var(--color5);
+    padding: 4rem 2rem;
+}
+.about_rappi .titulo h3{
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.about_rappi .titulo .h3 .hr{
+    margin: 0 0rem 0 0rem;
+    color: var(--color2);
+    font-weight: 100;
+    
+}
+
+.about_rappi .titulo h3 span{
+    font-weight: 900;
+    margin: 0 1rem 0 0;
+   
+}
+.about_rappi .titulo h2{
+    font-size: 5rem;
+    margin-top: 3rem;
+}
+.contenido {
+    width: auto;
+    height: auto;
+    padding: 4rem 2rem;
+}
+.contenido p {
+    width: auto;
+    color: var(--color2);
+    font-size: 1.5rem;
+}
+.botones{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.botones .bt1 {
+    text-decoration: none;
+    display: block;
+    background-color: var(--color1);
+    color: #fff;
+    width: 17rem;
+    height: 4rem;
+    border-radius: 10rem;
+    padding: 1rem;
+    margin: 2rem 1rem 0 1rem;
+    -webkit-box-shadow: -2px -1px 47px -5px rgba(255,113,118,1);
+    -moz-box-shadow: -2px -1px 47px -5px rgba(255,113,118,1);
+    box-shadow: -2px -1px 47px -5px rgba(255,113,118,1);
+
+    font-size: 1.8rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.botones .bt2 {
+    text-decoration: none;
+    display: block;
+    border: 1px solid var(--color1);
+    width: 17rem;
+    height: 4rem;
+    border-radius: 10rem;
+    padding: 1rem;
+    margin:  2rem 0 0 0;
+    color: var(--color1);
+
+    font-size: 1.8rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
