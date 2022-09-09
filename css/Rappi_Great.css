@@ -39,10 +39,11 @@
     width: 100%;
     height: auto;
     width: auto;
+    font-size: 1.8rem;
     padding: 4rem 0 0 2rem;
     display: flex;
     align-items: center;
-    font-size: 1.3rem;
+    
 }
 
 .Subt_linea span{
@@ -55,7 +56,7 @@
 }
 .Subt_linea .What{
     font-weight: 500;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
 }
 .ITEM2{
     margin-top: 6rem;
