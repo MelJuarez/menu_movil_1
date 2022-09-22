@@ -39,7 +39,7 @@
 }
 
 .contenido_banner p{
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
 .boton{
@@ -56,6 +56,9 @@
     margin: auto;
     margin-top: 2rem;
 
+    -webkit-box-shadow: 0px 7px 78px -8px rgba(252,174,179,1);
+-moz-box-shadow: 0px 7px 78px -8px rgba(252,174,179,1);
+    box-shadow: 0px 7px 78px -8px rgba(252,174,179,1);
     display: flex;
     justify-content: center;
     align-items: center;
